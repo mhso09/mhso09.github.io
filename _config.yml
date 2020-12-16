@@ -29,7 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
+twitter: False
   username: ngzhio
   card: summary
 logo: logo.png
