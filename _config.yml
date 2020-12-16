@@ -29,7 +29,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter: False
+twitter: 
   username: 
   card:
 logo: 
